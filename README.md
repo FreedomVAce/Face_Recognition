@@ -31,6 +31,6 @@ and Neural Network.
 
 
 If you like image analysis, come over here for Face Recognition and Emotion Detection presentation.
-Link: https://www.loom.com/share/9302831f56eb4e609f23b2052287d966
+<br> Link: https://www.loom.com/share/9302831f56eb4e609f23b2052287d966
 
 Feedback is always welcome ~~~
