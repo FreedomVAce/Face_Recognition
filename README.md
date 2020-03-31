@@ -1,5 +1,6 @@
-# Capstone Project: Face_Recognition_&amp;_Emotion_Detection_Result
+# Capstone Project: Face Recognition & Emotion Detection Result
 
+![Face Recognition](Screen Shot 2020-03-31 at 12.46.34 PM)
 
 ## Introduction 
 
