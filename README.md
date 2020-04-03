@@ -4,7 +4,7 @@
 
 ## Introduction 
 
-Image analysis is one of my favourite topics in the Data Science program from Brainstation. 
+  Image analysis is one of my favourite topics in the Data Science program from Brainstation. 
 The power of image analysis is able to extract information from an image and assign importance 
 to various aspects in the image and be able differentiate one from the others. For example, 
 the machine is able to differentiate between cats and dogs. This opens up toons of applications 
