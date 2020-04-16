@@ -1,6 +1,8 @@
 # Capstone Project: Face Recognition & Emotion Detection Result
 
+<p align="center">
  <img src="Screen%20Shot%202020-03-31%20at%2012.46.34%20PM.png" width="300" height="300">
+</p>
 
 ## Introduction 
 
