@@ -1,6 +1,6 @@
 # Capstone Project: Face Recognition & Emotion Detection Result
 
-![Face_Recognition](Screen%20Shot%202020-03-31%20at%2012.46.34%20PM.png)
+ <img src="Screen%20Shot%202020-03-31%20at%2012.46.34%20PM.png" width="300" height="300">
 
 ## Introduction 
 
@@ -29,8 +29,11 @@ and Neural Network.
 * Matplotlib
 * Seaborn
 
+## Completion Time
+* Around one and half months
 
 If you like image analysis, come over here for Face Recognition and Emotion Detection presentation.
 <br> Link: https://www.loom.com/share/9302831f56eb4e609f23b2052287d966
 
-Feedback is always welcome ~~~
+Feedback is always welcome ~~~ <br>
+LinkedIn: https://www.linkedin.com/in/austin-yu-a6a26419b/
