@@ -39,4 +39,4 @@ If you like image analysis, come over here for Face Recognition and Emotion Dete
 <br> Link: https://www.loom.com/share/9302831f56eb4e609f23b2052287d966
 
 Feedback is always welcome ~~~ <br>
-LinkedIn: https://www.linkedin.com/in/austin-yu-a6a26419b/
+LinkedIn: https://www.linkedin.com/in/austinykw/
